@@ -1,142 +1,142 @@
 [
   {
     "id": 1,
-    "nombre": "Guantes Cleto Reyes Alta Precisión",
-    "precio": 2899,
-    "categoria": "Guantes",
-    "imagen": "https://cletoreyes.com/products/guantes-cleto-reyes-de-alta-precision-en-piel-de-res"
+    "name": "Saco Boxeo Pesado (Piel) 1.30m",
+    "description": "Costal de boxeo extra pesado de cuero genuino, relleno (90-100 lbs).",
+    "price": 9649,
+    "image": "/img/products/saco_pesado.jpg"
   },
   {
     "id": 2,
-    "nombre": "Guantes Vintage 1945 Entrenamiento",
-    "precio": 3359,
-    "categoria": "Guantes",
-    "imagen": "https://cletoreyes.com/products/guantes-cleto-reyes-vintage-1945"
+    "name": "Guantes WBC 16 oz (Cierre Contacto)",
+    "description": "Guantes de entrenamiento con licencia del WBC, piel de res.",
+    "price": 3899,
+    "image": "/img/products/guantes_16_wbc.jpg"
   },
   {
     "id": 3,
-    "nombre": "Guantes Premium Fiber World Legacy",
-    "precio": 3050,
-    "categoria": "Guantes",
-    "imagen": "https://cletoreyes.com/products/guantes-premium-fiber-world-legacy"
+    "name": "Careta con Barra de Nylon V",
+    "description": "Protector de cabeza de piel con barra frontal de máxima seguridad.",
+    "price": 3450,
+    "image": "/img/products/careta_barra.jpg"
   },
   {
     "id": 4,
-    "nombre": "Guantes Premium Fiber Origen Quetzalcóatl",
-    "precio": 3050,
-    "categoria": "Guantes",
-    "imagen": "https://cletoreyes.com/products/guantes-premium-fiber-origen-quetzalcoatl"
+    "name": "Guantes de Combate Profesional 10 oz",
+    "description": "Guantes con agujeta de piel para peleas profesionales.",
+    "price": 4200,
+    "image": "/img/products/guantes_10_pro.jpg"
   },
   {
     "id": 5,
-    "nombre": "Guantes Jackie Nava La Princesa Azteca",
-    "precio": 3050,
-    "categoria": "Guantes",
-    "imagen": "https://cletoreyes.com/products/guantes-jackie-nava-la-princesa-azteca"
+    "name": "Plataforma Saco de Velocidad Premium",
+    "description": "Plataforma de pared con ajuste y baleros para velocidad óptima.",
+    "price": 5850,
+    "image": "/img/products/plataforma.jpg"
   },
   {
     "id": 6,
-    "nombre": "Guantes Legend Gold & Silver",
-    "precio": 3359,
-    "categoria": "Guantes",
-    "imagen": "https://cletoreyes.com/products/guantes-cleto-reyes-legend-gold-silver"
+    "name": "Zapatillas Boxeo High Top (Piel)",
+    "description": "Botas de boxeo de caña alta, piel y suela antiderrapante.",
+    "price": 3150,
+    "image": "/img/products/zapatillas.jpg"
   },
   {
     "id": 7,
-    "nombre": "Guantes MMA Pelea Cobrizo",
-    "precio": 2080,
-    "categoria": "MMA",
-    "imagen": "https://cletoreyes.com/products/guantes-para-pelea-mma-en-piel-de-res-l-cobrizo"
+    "name": "Guantes Sparring Extra Acojinados 16 oz",
+    "description": "Guantes con acolchonamiento especial para sesiones de sparring.",
+    "price": 2999,
+    "image": "/img/products/guantes_sparring.jpg"
   },
   {
     "id": 8,
-    "nombre": "Guantes MMA Pelea Gris Oxford",
-    "precio": 2080,
-    "categoria": "MMA",
-    "imagen": "https://cletoreyes.com/products/guantes-para-pelea-mma-en-piel-de-res-gris-oxford"
+    "name": "Manoplas de Enfoque Curvas (Piel)",
+    "description": "Manoplas profesionales de piel, con palma de agarre anatómica.",
+    "price": 3750,
+    "image": "/img/products/manoplas.jpg"
   },
   {
     "id": 9,
-    "nombre": "Guantes MMA Black Mamba",
-    "precio": 1600,
-    "categoria": "MMA",
-    "imagen": "https://cletoreyes.com/products/guantes-cleto-reyes-mma-black-mamba-para-pelea-con-pulgar"
+    "name": "Costal Bola Mixto (Piel)",
+    "description": "Costal para uppercut y ganchos, piel y lona reforzada.",
+    "price": 4449,
+    "image": "/img/products/saco_bola.jpg"
   },
   {
     "id": 10,
-    "nombre": "Guantes WBC Entrenamiento Cierre Contacto",
-    "precio": 3639,
-    "categoria": "Guantes",
-    "imagen": "https://cletoreyes.com/products/guantes-cleto-reyes-para-entrenamiento-con-cierre-de-contacto-en-piel-de-res"
+    "name": "Vendas de Boxeo (Caja 10 pares)",
+    "description": "Paquete de 10 pares de vendas semi-elásticas profesionales.",
+    "price": 2800,
+    "image": "/img/products/vendas_caja.jpg"
   },
   {
     "id": 11,
-    "nombre": "Guantes Oficiales Pelea Piel de Res",
-    "precio": 3340,
-    "categoria": "Guantes",
-    "imagen": "https://cletoreyes.com/products/guantes-cleto-reyes-oficiales-de-pelea-en-piel-de-res"
+    "name": "Pantalón Corto de Satín Clásico",
+    "description": "Shorts de boxeo de satín, material ligero y corte tradicional.",
+    "price": 1199,
+    "image": "/img/products/pantalon.jpg"
   },
   {
     "id": 12,
-    "nombre": "Guantes Oficiales Safetec Pelea",
-    "precio": 3500,
-    "categoria": "Guantes",
-    "imagen": "https://cletoreyes.com/products/guantes-cleto-reyes-oficiales-safetec-de-pelea-en-piel-de-res"
+    "name": "Guantes de Saco (Guantillas Piel)",
+    "description": "Guantillas de piel para golpeo de saco y pera, acolchado en nudillos.",
+    "price": 1899,
+    "image": "/img/products/guantes_saco.jpg"
   },
   {
     "id": 13,
-    "nombre": "Manoplas Curvas Cleto Reyes",
-    "precio": 2249,
-    "categoria": "Coaching",
-    "imagen": "https://cletoreyes.com/products/manillas-curvas-cleto-reyes-para-boxeo-en-piel"
+    "name": "Pera de Velocidad (Piel Genuina)",
+    "description": "Pera de boxeo en piel, tamaño estándar, para trabajo de reflejos.",
+    "price": 2350,
+    "image": "/img/products/pera_vel.jpg"
   },
   {
     "id": 14,
-    "nombre": "Protector Cabeza Barra U Vintage 1945",
-    "precio": 3479,
-    "categoria": "Protección",
-    "imagen": "https://cletoreyes.com/products/protector-de-cabeza-barra-u-vintage-1945-edicion-especial"
+    "name": "Cuerda para Saltar de Piel (Profesional)",
+    "description": "Cuerda de salto con agarraderas de madera y cable de piel.",
+    "price": 950,
+    "image": "/img/products/cuerda_piel.jpg"
   },
   {
     "id": 15,
-    "nombre": "Protector Cabeza Barra V Vintage 1945",
-    "precio": 3479,
-    "categoria": "Protección",
-    "imagen": "https://cletoreyes.com/products/protector-de-cabeza-barra-v-vintage-1945-edicion-especial"
+    "name": "Careta Amateur (Pómulos)",
+    "description": "Protector de cabeza con pómulos, ideal para entrenamiento amateur.",
+    "price": 2199,
+    "image": "/img/products/careta.jpg"
   },
   {
     "id": 16,
-    "nombre": "Costal LOOX",
-    "precio": 4799,
-    "categoria": "Costales",
-    "imagen": "https://cletoreyes.com/products/costal-loox"
+    "name": "Protector Bucal Termomoldeable Pro",
+    "description": "Protector bucal de doble capa, alta absorción de impacto.",
+    "price": 650,
+    "image": "/img/products/bucal.jpg"
   },
   {
     "id": 17,
-    "nombre": "Soporte Ajustable Arm Of Steel",
-    "precio": 6599,
-    "categoria": "Coaching",
-    "imagen": "https://cletoreyes.com/products/arm-of-steel-soporte-ajustable-para-pera"
+    "name": "Bata de Boxeo (Satín)",
+    "description": "Bata de entrada al ring, satín brillante con capucha.",
+    "price": 3200,
+    "image": "/img/products/bata.jpg"
   },
   {
     "id": 18,
-    "nombre": "Camiseta Olímpica Cleto Reyes",
-    "precio": 259,
-    "categoria": "Ropa",
-    "imagen": "https://cletoreyes.com/products/camiseta-olimpica-cleto-reyes"
+    "name": "Vendas de Boxeo Unidad (4.5m)",
+    "description": "Vendas semi-elásticas individuales de 4.5 metros.",
+    "price": 350,
+    "image": "/img/products/vendas_un.jpg"
   },
   {
     "id": 19,
-    "nombre": "Mini Guante Talisman Llavero",
-    "precio": 400,
-    "categoria": "Souvenir",
-    "imagen": "https://cletoreyes.com/products/guante-miniatura-con-llavero-coleccion-talisman-en-piel-de-res"
+    "name": "Bolsa de Accesorios (Lona)",
+    "description": "Bolsa de lona resistente para guardar equipo y accesorios.",
+    "price": 899,
+    "image": "/img/products/bolsa.jpg"
   },
   {
     "id": 20,
-    "nombre": "Kit Traditon Costal y Guantes Miniatura",
-    "precio": 1500,
-    "categoria": "Souvenir",
-    "imagen": "https://cletoreyes.com/products/traditon-kit-de-costal-y-guantes-miniatura-de-coleccion-joyas-de-la-corona-en-cuero"
+    "name": "Llavero Mini-Guantes (Souvenir)",
+    "description": "Mini-guantes de boxeo en piel para colgar en el espejo del auto.",
+    "price": 390,
+    "image": "/img/products/llavero.jpg"
   }
 ]
