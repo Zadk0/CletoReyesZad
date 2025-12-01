@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Tienda Cleto Reyes</title>
+  <link rel="stylesheet" href="/css/styles.css" />
+  <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+</head>
+<body>
+<header class="nav-header">
+  <div class="nav-container">
+    <h1 class="logo">Cleto Reyes Store</h1>
+    <nav class="nav-menu">
+      <a href="/">Productos</a>
+      <% if (!user) { %>
+        <a href="/auth/login">Iniciar sesión</a>
+        <a href="/auth/register">Registrarse</a>
+      <% } else { %>
+        <a href="/history">Historial</a>
+        <a href="/auth/logout">Salir</a>
+      <% } %>
+    </nav>
+  </div>
+</header>
+<main class="main-container">

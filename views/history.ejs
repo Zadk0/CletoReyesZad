@@ -1,0 +1,19 @@
+<%- include("partials/header", { user }) %>
+
+<h2 class="page-title">Historial de compras</h2>
+
+<% if (!orders || orders.length === 0) { %>
+  <p>No tienes compras registradas.</p>
+<% } else { %>
+  <div class="history-list">
+    <% orders.forEach(o => { %>
+      <div class="history-card">
+        <h3><%= new Date(o.fecha).toLocaleString("es-MX") %></h3>
+        <p>Total: <strong>$<%= o.total %> MXN</strong></p>
+        <a class="btn-secondary" href="/ticket/<%= o.id %>">Descargar Ticket PDF</a>
+      </div>
+    <% }) %>
+  </div>
+<% } %>
+
+<%- include("partials/footer") %>

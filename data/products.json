@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nombre": "Guantes Cleto Reyes Alta Precisión",
+    "precio": 2899,
+    "categoria": "Guantes",
+    "imagen": "https://cletoreyes.com/products/guantes-cleto-reyes-de-alta-precision-en-piel-de-res"
+  },
+  {
+    "id": 2,
+    "nombre": "Guantes Vintage 1945 Entrenamiento",
+    "precio": 3359,
+    "categoria": "Guantes",
+    "imagen": "https://cletoreyes.com/products/guantes-cleto-reyes-vintage-1945"
+  },
+  {
+    "id": 3,
+    "nombre": "Guantes Premium Fiber World Legacy",
+    "precio": 3050,
+    "categoria": "Guantes",
+    "imagen": "https://cletoreyes.com/products/guantes-premium-fiber-world-legacy"
+  },
+  {
+    "id": 4,
+    "nombre": "Guantes Premium Fiber Origen Quetzalcóatl",
+    "precio": 3050,
+    "categoria": "Guantes",
+    "imagen": "https://cletoreyes.com/products/guantes-premium-fiber-origen-quetzalcoatl"
+  },
+  {
+    "id": 5,
+    "nombre": "Guantes Jackie Nava La Princesa Azteca",
+    "precio": 3050,
+    "categoria": "Guantes",
+    "imagen": "https://cletoreyes.com/products/guantes-jackie-nava-la-princesa-azteca"
+  },
+  {
+    "id": 6,
+    "nombre": "Guantes Legend Gold & Silver",
+    "precio": 3359,
+    "categoria": "Guantes",
+    "imagen": "https://cletoreyes.com/products/guantes-cleto-reyes-legend-gold-silver"
+  },
+  {
+    "id": 7,
+    "nombre": "Guantes MMA Pelea Cobrizo",
+    "precio": 2080,
+    "categoria": "MMA",
+    "imagen": "https://cletoreyes.com/products/guantes-para-pelea-mma-en-piel-de-res-l-cobrizo"
+  },
+  {
+    "id": 8,
+    "nombre": "Guantes MMA Pelea Gris Oxford",
+    "precio": 2080,
+    "categoria": "MMA",
+    "imagen": "https://cletoreyes.com/products/guantes-para-pelea-mma-en-piel-de-res-gris-oxford"
+  },
+  {
+    "id": 9,
+    "nombre": "Guantes MMA Black Mamba",
+    "precio": 1600,
+    "categoria": "MMA",
+    "imagen": "https://cletoreyes.com/products/guantes-cleto-reyes-mma-black-mamba-para-pelea-con-pulgar"
+  },
+  {
+    "id": 10,
+    "nombre": "Guantes WBC Entrenamiento Cierre Contacto",
+    "precio": 3639,
+    "categoria": "Guantes",
+    "imagen": "https://cletoreyes.com/products/guantes-cleto-reyes-para-entrenamiento-con-cierre-de-contacto-en-piel-de-res"
+  },
+  {
+    "id": 11,
+    "nombre": "Guantes Oficiales Pelea Piel de Res",
+    "precio": 3340,
+    "categoria": "Guantes",
+    "imagen": "https://cletoreyes.com/products/guantes-cleto-reyes-oficiales-de-pelea-en-piel-de-res"
+  },
+  {
+    "id": 12,
+    "nombre": "Guantes Oficiales Safetec Pelea",
+    "precio": 3500,
+    "categoria": "Guantes",
+    "imagen": "https://cletoreyes.com/products/guantes-cleto-reyes-oficiales-safetec-de-pelea-en-piel-de-res"
+  },
+  {
+    "id": 13,
+    "nombre": "Manoplas Curvas Cleto Reyes",
+    "precio": 2249,
+    "categoria": "Coaching",
+    "imagen": "https://cletoreyes.com/products/manillas-curvas-cleto-reyes-para-boxeo-en-piel"
+  },
+  {
+    "id": 14,
+    "nombre": "Protector Cabeza Barra U Vintage 1945",
+    "precio": 3479,
+    "categoria": "Protección",
+    "imagen": "https://cletoreyes.com/products/protector-de-cabeza-barra-u-vintage-1945-edicion-especial"
+  },
+  {
+    "id": 15,
+    "nombre": "Protector Cabeza Barra V Vintage 1945",
+    "precio": 3479,
+    "categoria": "Protección",
+    "imagen": "https://cletoreyes.com/products/protector-de-cabeza-barra-v-vintage-1945-edicion-especial"
+  },
+  {
+    "id": 16,
+    "nombre": "Costal LOOX",
+    "precio": 4799,
+    "categoria": "Costales",
+    "imagen": "https://cletoreyes.com/products/costal-loox"
+  },
+  {
+    "id": 17,
+    "nombre": "Soporte Ajustable Arm Of Steel",
+    "precio": 6599,
+    "categoria": "Coaching",
+    "imagen": "https://cletoreyes.com/products/arm-of-steel-soporte-ajustable-para-pera"
+  },
+  {
+    "id": 18,
+    "nombre": "Camiseta Olímpica Cleto Reyes",
+    "precio": 259,
+    "categoria": "Ropa",
+    "imagen": "https://cletoreyes.com/products/camiseta-olimpica-cleto-reyes"
+  },
+  {
+    "id": 19,
+    "nombre": "Mini Guante Talisman Llavero",
+    "precio": 400,
+    "categoria": "Souvenir",
+    "imagen": "https://cletoreyes.com/products/guante-miniatura-con-llavero-coleccion-talisman-en-piel-de-res"
+  },
+  {
+    "id": 20,
+    "nombre": "Kit Traditon Costal y Guantes Miniatura",
+    "precio": 1500,
+    "categoria": "Souvenir",
+    "imagen": "https://cletoreyes.com/products/traditon-kit-de-costal-y-guantes-miniatura-de-coleccion-joyas-de-la-corona-en-cuero"
+  }
+]

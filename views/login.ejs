@@ -1,0 +1,19 @@
+<%- include("partials/header", { user }) %>
+
+<h2 class="page-title">Iniciar sesión</h2>
+
+<% if (error) { %>
+  <p class="error-msg"><%= error %></p>
+<% } %>
+
+<form method="POST" action="/auth/login" class="form-box">
+  <label>Email:
+    <input type="email" name="email" required />
+  </label>
+  <label>Contraseña:
+    <input type="password" name="password" required />
+  </label>
+  <button class="btn-primary">Entrar</button>
+</form>
+
+<%- include("partials/footer") %>

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "e5a15ec3-8e91-4c23-94ad-ae1315fa4cfe",
+    "userId": 1764614377283,
+    "items": [
+      {
+        "productId": 1,
+        "nombre": "Guantes Cleto Reyes Alta Precisión",
+        "precio": 2899,
+        "cantidad": 1,
+        "subtotal": 2899
+      },
+      {
+        "productId": 2,
+        "nombre": "Guantes Vintage 1945 Entrenamiento",
+        "precio": 3359,
+        "cantidad": 1,
+        "subtotal": 3359
+      },
+      {
+        "productId": 3,
+        "nombre": "Guantes Premium Fiber World Legacy",
+        "precio": 3050,
+        "cantidad": 1,
+        "subtotal": 3050
+      }
+    ],
+    "total": 9308,
+    "fecha": "2025-12-01T18:39:48.815Z"
+  }
+]

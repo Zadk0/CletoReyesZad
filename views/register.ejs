@@ -1,0 +1,22 @@
+<%- include("partials/header", { user }) %>
+
+<h2 class="page-title">Crear cuenta</h2>
+
+<% if (error) { %>
+  <p class="error-msg"><%= error %></p>
+<% } %>
+
+<form method="POST" action="/auth/register" class="form-box">
+  <label>Nombre:
+    <input type="text" name="nombre" required />
+  </label>
+  <label>Email:
+    <input type="email" name="email" required />
+  </label>
+  <label>Contraseña:
+    <input type="password" name="password" required />
+  </label>
+  <button class="btn-primary">Registrarme</button>
+</form>
+
+<%- include("partials/footer") %>
