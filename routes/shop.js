@@ -52,10 +52,10 @@ router.post('/api/checkout', requireLogin, (req, res) => {
     const p = products.find(pr => pr.id === it.productId);
     return {
       productId: p.id,
-      nombre: p.nombre,
-      precio: p.precio,
+      nombre: p.name,        // corregido
+      precio: p.price,       // corregido
       cantidad: it.quantity,
-      subtotal: p.precio * it.quantity
+      subtotal: p.price * it.quantity
     };
   });
 
